@@ -93,7 +93,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: white;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2702,7 +2702,7 @@ input, select, textarea {
 					}
 
 			/* .tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-color: #ad71c9;
 			} */
 
 			.tiles article.style2 > .image:before {
@@ -2713,12 +2713,12 @@ input, select, textarea {
 				background-color: #7bd0c1;
 			}
 
-			/* .tiles article.style4 > .image:before {
-				background-color: #c75b9b;
-			} */
+			.tiles article.style4 > .image:before {
+				background-color: #c073d8;
+			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #ae85ca;
+				background-color: #ca85c1;
 			}
 
 			.tiles article.style6 > .image:before {
