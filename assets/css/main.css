@@ -1994,6 +1994,7 @@ input, select, textarea {
 				-webkit-align-items: center;
 				-ms-align-items: center;
 				align-items: center;
+				text-align: center;
 			}
 
 				#main > .panel.intro .pic {
