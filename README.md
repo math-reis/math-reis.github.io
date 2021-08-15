@@ -1,1 +1,1 @@
-### ⚠️ Discontinued project. 
+### ⚠️ Discontinued project ⚠️
